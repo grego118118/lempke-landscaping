@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lempke-landscaping.vercel.app/sitemap.xml
