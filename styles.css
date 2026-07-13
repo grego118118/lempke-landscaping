@@ -142,7 +142,7 @@ h1, h2, h3 { font-family: var(--font-display); line-height: 1.05; }
 /* ============ SERVICES ============ */
 .services { background: var(--cream); }
 .services-grid {
-  display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(min(300px, 100%), 1fr));
   gap: 22px;
 }
 .service-card {
